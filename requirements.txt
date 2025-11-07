@@ -1,6 +1,5 @@
 requests
 yt_dlp
 pyrogram
-youtubesearchpython
 aiohttp
 
